@@ -17,7 +17,8 @@ You can install the dependencies using pip. Here's an example command:
 https://github.com/TungCan273/Flower-Recognition
 2. Navigate to the project directory.  
 `cd flower-recognition`
-3. Run the flower_recognition.py file with an image file path as the argument.
+3. Run the flower_recognition.py file with an image URL as the argument.  
+
 The system will analyze the image and identify the flower species. The result will be displayed on the console.
 # Data
 Data loaded and trained on the Flowers Recognition dataset, which contains images of different types of flowers. The dataset was preprocessed and split into training and testing sets.
