@@ -9,7 +9,7 @@ OpenCV
 Scikit-Learn
 TensorFlow
 
-You can install the dependencies using pip. Here's an example command
+You can install the dependencies using pip. Here's an example command:
 `pip install numpy opencv-python scikit-learn tensorflow`
 
 #Usage
