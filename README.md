@@ -12,7 +12,7 @@ TensorFlow
 You can install the dependencies using pip. Here's an example command:  
 `pip install numpy opencv-python scikit-learn tensorflow`
 
-#Usage
+# Usage
 1. Clone the repository to your local machine.  
 https://github.com/TungCan273/Flower-Recognition
 2. Navigate to the project directory.  
