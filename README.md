@@ -3,17 +3,17 @@ This project is a flower recognition system that can identify different types of
 
 # Installation
 To run this project, you will need to install the following dependencies:
-Python 3.6 or higher
-NumPy
-OpenCV
-Scikit-Learn
+Python 3.6 or higher  
+NumPy  
+OpenCV  
+Scikit-Learn  
 TensorFlow
 
-You can install the dependencies using pip. Here's an example command:</br>  
+You can install the dependencies using pip. Here's an example command:  
 `pip install numpy opencv-python scikit-learn tensorflow`
 
 #Usage
-1. Clone the repository to your local machine.</br>  
+1. Clone the repository to your local machine.  
 https://github.com/TungCan273/Flower-Recognition
 2. Navigate to the project directory.  
 `cd flower-recognition`
