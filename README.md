@@ -9,11 +9,14 @@ OpenCV
 Scikit-Learn
 TensorFlow
 
+You can install the dependencies using pip. Here's an example command
+'pip install numpy opencv-python scikit-learn tensorflow'
+
 #Usage
 1. Clone the repository to your local machine.
-[Link](https://github.com/TungCan273/Flower-Recognition)
+	https://github.com/TungCan273/Flower-Recognition
 2. Navigate to the project directory.
-|cd flower-recognition|
+'cd flower-recognition'
 3. Run the flower_recognition.py file with an image file path as the argument.
 The system will analyze the image and identify the flower species. The result will be displayed on the console.
 # Data
