@@ -14,7 +14,7 @@ You can install the dependencies using pip. Here's an example command:
 
 # Usage
 1. Clone the repository to your local machine.  
-https://github.com/TungCan273/Flower-Recognition
+`git clone https://github.com/TungCan273/Flower-Recognition`
 2. Navigate to the project directory.  
 `cd flower-recognition`
 3. Run the flower_recognition.py file with an image URL as the argument.  
