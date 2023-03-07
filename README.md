@@ -21,5 +21,5 @@ You can install the dependencies using pip. Here's an example command:
 
 The system will analyze the image and identify the flower species. The result will be displayed on the console.
 # Data
-Data loaded and trained on the Flowers Recognition dataset, which contains images of different types of flowers. The dataset was preprocessed and split into training and testing sets.
+Data loaded and trained on the Flowers Recognition dataset, which contains images of different types of flowers. The dataset was preprocessed and split into training and testing sets.  
 Download .zip: (https://www.kaggle.com/datasets/alxmamaev/flowers-recognition)
